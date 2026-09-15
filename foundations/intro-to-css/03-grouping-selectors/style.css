@@ -1,6 +1,10 @@
 /* Add CSS Styling */
 
-first-click{
+.first-click{
     background-color: #000000;
     color: rgb(255, 255, 255);
+}
+
+.second-click{
+    background-color: hsl(60, 100%, 50%);
 }
