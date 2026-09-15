@@ -8,3 +8,8 @@
 .second-click{
     background-color: hsl(60, 100%, 50%);
 }
+
+.first-click,.second-click{
+    font-size: 28px;
+    font-family: Helvetica, Times 'Times New Roman', sans-serif;
+}
